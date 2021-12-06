@@ -8,7 +8,7 @@ Contributed by [Xiangru Tang](http://https://xiangrutang.github.io/)
 - [Papers](#papers)
 
 - [Datasets](#datasets)
-  - [Tables with Metadata](#tables with metadata)
+  - [Tables with Metadata](#tables-with-metadata)
 
 
 ## Papers
