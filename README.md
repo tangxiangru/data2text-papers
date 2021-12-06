@@ -18,7 +18,7 @@ Data-to-Text Generation (D2T NLG) can be described as Natural Language Generatio
 
 ## Papers
 
-* [Towards table-to-text generation with numerical reasoning] (https://aclanthology.org/2021.acl-long.115/)
+* [Towards table-to-text generation with numerical reasoning](https://aclanthology.org/2021.acl-long.115/)
 
 * [Plan-then-generate: Controlled data-to-text generation via planning](https://arxiv.org/abs/2108.13740)
 
