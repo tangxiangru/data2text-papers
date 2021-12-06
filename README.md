@@ -8,7 +8,9 @@ Contributed by [Xiangru Tang](http://https://xiangrutang.github.io/)
 - [Papers](#papers)
 
 - [Datasets](#datasets)
-  - [Tables with Metadata](#tables-with-metadata)
+  - [Tables with Metadata](#Tables-with-Metadata)
+  - [Text-to-SQL](#Text-to-SQL)
+  - [Table Summarization](#Table-Summarization)
 
 
 ## Papers
@@ -17,7 +19,7 @@ Contributed by [Xiangru Tang](http://https://xiangrutang.github.io/)
 
 
 
-### tables with metadata
+### Tables with Metadata
 Gittables
 Tensorflow datasets - structured
 Amazon review
