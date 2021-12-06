@@ -25,9 +25,16 @@ Tensorflow datasets - structured
 Amazon review
 
 ### Text-to-SQL
-WikiTableQuestions Dataset [paper](https://arxiv.org/abs/1508.00305) [homepaper](https://ppasupat.github.io/WikiTableQuestions/) [github](https://github.com/ppasupat/WikiTableQuestions)
-WikiSQL
-Spider, CoSQL, SPaRc
+**WikiTableQuestions Dataset** [paper](https://arxiv.org/abs/1508.00305) [demo](https://ppasupat.github.io/WikiTableQuestions/) [github](https://github.com/ppasupat/WikiTableQuestions)
+
+**WikiSQL** [paper](http://arxiv.org/abs/1709.00103) [github][https://github.com/salesforce/WikiSQL]
+
+**Spider** [paper](https://arxiv.org/abs/1809.08887) [demo](https://yale-lily.github.io/spider) 
+
+**CoSQL** [paper](https://arxiv.org/abs/1909.05378) [demo](https://yale-lily.github.io/cosql)
+
+
+**SPaRc** [paper](https://arxiv.org/abs/1906.02285) [demo](https://yale-lily.github.io/sparc)
 
 ### Table Summarization 
 ToTTo
