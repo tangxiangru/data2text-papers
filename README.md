@@ -25,7 +25,7 @@ Tensorflow datasets - structured
 Amazon review
 
 ### Text-to-SQL
-WikitableQuestions
+WikiTableQuestions Dataset [paper](https://arxiv.org/abs/1508.00305) [homepaper](https://ppasupat.github.io/WikiTableQuestions/) [github](https://github.com/ppasupat/WikiTableQuestions)
 WikiSQL
 Spider, CoSQL, SPaRc
 
