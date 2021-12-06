@@ -27,7 +27,7 @@ Amazon review
 ### Text-to-SQL
 **WikiTableQuestions Dataset** [paper](https://arxiv.org/abs/1508.00305) [demo](https://ppasupat.github.io/WikiTableQuestions/) [github](https://github.com/ppasupat/WikiTableQuestions)
 
-**WikiSQL** [paper](http://arxiv.org/abs/1709.00103) [github][https://github.com/salesforce/WikiSQL]
+**WikiSQL** [paper](http://arxiv.org/abs/1709.00103) [github](https://github.com/salesforce/WikiSQL)
 
 **Spider** [paper](https://arxiv.org/abs/1809.08887) [demo](https://yale-lily.github.io/spider) 
 
